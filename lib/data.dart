@@ -1,0 +1,16 @@
+List urlList = [
+  'https://www.itying.com/images/flutter/1.png',
+  'https://www.itying.com/images/flutter/2.png',
+  'https://www.itying.com/images/flutter/3.png',
+  'https://www.itying.com/images/flutter/4.png',
+  'https://www.itying.com/images/flutter/5.png',
+  'https://www.itying.com/images/flutter/6.png',
+  'https://www.itying.com/images/flutter/7.png',
+  'https://www.itying.com/images/flutter/1.png',
+  'https://www.itying.com/images/flutter/2.png',
+  'https://www.itying.com/images/flutter/3.png',
+  'https://www.itying.com/images/flutter/4.png',
+  'https://www.itying.com/images/flutter/5.png',
+  'https://www.itying.com/images/flutter/6.png',
+  'https://www.itying.com/images/flutter/7.png',
+];
